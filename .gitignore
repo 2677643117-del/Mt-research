@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
+
+# Keep project files and presentation assets out of this skill repository.
+assets/
+*.ppt
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.zip

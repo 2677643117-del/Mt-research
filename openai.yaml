@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mtresearch-PPT"
+  short_description: "从研究方向和逐页大纲确认，到论文精读、按论点选图和可编辑科研汇报制作"
+  default_prompt: "使用 $mtresearch-ppt，先确认我的专业方向和本次汇报重点，再给我一份可确认的逐页文字大纲。"
